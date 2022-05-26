@@ -1,5 +1,8 @@
 # Portifólio
 
-Portifólio Do Victor
+Portifólio Pessoal
 
-Projeto feito utilizando as linguagens HTML5 e CSS3.
+Projeto feito utilizando as seguintes linguagens:
+
+- HTML5 
+- CSS3
